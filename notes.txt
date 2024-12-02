@@ -1,0 +1,24 @@
+un sprctacle jeu video où les joueurs choisisent trois personnages qui combattent avec des objets qui tombent d'en haut
+
+
+
+Monoloque des objets :
+
+présentation lieu
+détails
+check-list puis parole aux objets
+plateau (planche), lumière (projecteur), quatrième mur (rideau), transformation comédien (costume et tube de fond de tein)
+ces éléments permettent d'interroger le rapport scène-salle car ils vont crés en "espace" de l'illusion
+
+Les textes dans lesquels je joue sont ceux d'introduction et de cloture.
+
+
+
+Notre projet de mise en scène sera:
+
+Vivant : on doit bouger
+
+Notre intention:
+
+Introduire les scènes et les cloturer
+Présenter le derrière de la scène
