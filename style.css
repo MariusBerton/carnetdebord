@@ -5,6 +5,7 @@
 
 div{
     background-image: url("carnet.png");
+    background-size: cover;
 }
 
 .h1{
