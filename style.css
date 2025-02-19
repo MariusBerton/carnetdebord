@@ -3,6 +3,7 @@
     height: 100%;
 }
 
-div{
+body{
     background-image: url("carnet.png");
+    background-size: cover;
 }
