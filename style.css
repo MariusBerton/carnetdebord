@@ -5,6 +5,6 @@
 
 div{
     background-image: url("carnet.png");
-    background-size: 100%;
+    background-size: cover;
     background-clip: text;
 }
