@@ -2,3 +2,9 @@ body{
     background-image: url("carnet.png");
     background-size: cover;
 }
+
+.carnet{
+    position: relative;
+        bottom: 5%;
+        left: 2%;
+}
