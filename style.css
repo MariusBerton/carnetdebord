@@ -8,3 +8,7 @@ div{
     background-size: cover;
     background-clip: text;
 }
+
+.h1{
+    text-align: center;
+}
