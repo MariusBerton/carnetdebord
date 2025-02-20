@@ -12,3 +12,11 @@ body{
 h1{
     font-size: 70px;
 }
+
+p{
+    font-size: 20px;
+}
+
+.image{
+    width: 100px;
+}
