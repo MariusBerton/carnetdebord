@@ -3,16 +3,10 @@ body{
     background-size: cover;
 }
 
-.titre{
-    position: absolute;
-        top: 8%;
-        left: 30%;
-}
-
 .texte{
     position: absolute;
-        top: 15%;
-        left: 10%;
+        top: 8%;
+        left: 27%;
 }
 
 h1{
