@@ -9,6 +9,12 @@ body{
         left: 30%;
 }
 
+.texte{
+    position: absolute;
+        top: 15%;
+        left: 10%;
+}
+
 h1{
     font-size: 70px;
 }
