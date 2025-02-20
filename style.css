@@ -3,7 +3,7 @@ body{
     background-size: cover;
 }
 
-h1{
+.carnet{
     position: absolute;
         top: 10%;
         left: 40%;
