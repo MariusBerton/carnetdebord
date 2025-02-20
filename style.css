@@ -3,8 +3,12 @@ body{
     background-size: cover;
 }
 
-.carnet{
+.titre{
     position: absolute;
         top: 10%;
         left: 40%;
+}
+
+h1{
+    font-size: 40px;
 }
