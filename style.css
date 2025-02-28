@@ -36,25 +36,6 @@ nav .onglets a {
   cursor:pointer;
 }
 
-nav .buttons button{
-  padding: 13px 20px;
-  color: #fff;
-  border:none;
-  font-size: 15px;
-  cursor:pointer;
-  outline:none;
-}
-
-nav .buttons .login{
-  background-color: inherit;
-  margin-right: 10px;
-  color: #8f8f8f;
-}
-
-nav .buttons .register{
-  background-color: #f54266;
-}
-
 header{
   margin-top: 40px;
   background: url('https://officialpsds.com/imageview/rn/62/rn6205_large.png?1521316483');
@@ -68,33 +49,4 @@ header h1{
   font-size: 60px;
   padding: 150px;
   transition: transform 2.5s;
-}
-
-footer{
-  background-color: #1a1a1a;
-  padding: 25px 100px;
-  color:#828282;
-}
-
-footer .colonnes{
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-}
-
-@media screen and (max-width: 640px){
-  body .page{
-    margin: 10px;
-  }
-  nav .onglets{
-    display:none;
-  }
-  header{
-    margin-top: 20px;
-    background-size: 250px 250px;
-  }
-  header h1{
-    font-size: 30px;
-    padding: 100px;
-  }
 }
