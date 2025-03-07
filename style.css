@@ -41,3 +41,10 @@ header h1{
   padding: 150px;
   transition: transform 2.5s;
 }
+
+header a{
+  text-align:left;
+  font-size: 25px;
+  padding: 50px;
+  transition: transform 2.5s;
+}
